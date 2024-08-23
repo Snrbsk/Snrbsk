@@ -14,6 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snrbsk&show_icons=true&locale=en&layout=compact" alt="snrbsk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snrbsk&show_icons=true&locale=en" alt="snrbsk" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snrbsk&" alt="snrbsk" /></p>
